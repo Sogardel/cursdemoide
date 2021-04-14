@@ -100,7 +100,7 @@
         ["xpath=//div[@id='flash-messages']/div", "xpath:idRelative"],
         ["xpath=//div/div/div", "xpath:position"]
       ],
-      "value": "Your password is invalid!\\n×"
+      "value": "Your password is invalid!\n×"
     }, {
       "id": "05b05242-dfb6-4359-85b8-0a96f8de6aaa",
       "comment": "",
@@ -298,7 +298,7 @@
         ["xpath=//div[@id='flash-messages']/div", "xpath:idRelative"],
         ["xpath=//div/div/div", "xpath:position"]
       ],
-      "value": "You logged into a secure area!\\n×"
+      "value": "You logged into a secure area!\n×"
     }, {
       "id": "24f39243-db8b-488c-9921-ec21af11aa52",
       "comment": "",
@@ -336,7 +336,7 @@
         ["xpath=//div[@id='flash-messages']/div", "xpath:idRelative"],
         ["xpath=//div/div/div", "xpath:position"]
       ],
-      "value": "You logged out of the secure area!\\n×"
+      "value": "You logged out of the secure area!\n×"
     }, {
       "id": "6be7402c-5d34-4343-8cce-aa1d43da2d1d",
       "comment": "",
